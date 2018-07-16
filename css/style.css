@@ -1,1 +1,17 @@
 /* add CSS class and element and selectors here */
+body {
+  background-color: #FAA2C4;
+  color: white;
+  text-shadow: 2px 2px black;
+  text-align: center;
+  font-style: normal;
+  font-family: "Playfair Display";
+}
+
+h3 {
+  font-size: 300%;
+}
+
+div {
+  border: 9px dashed #F3307B;
+}
